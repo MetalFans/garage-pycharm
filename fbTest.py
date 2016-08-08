@@ -1,0 +1,2 @@
+s = u'\u610f\u5f0f\u9eb5\u98df'
+print s
